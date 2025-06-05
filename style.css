@@ -1,0 +1,26 @@
+
+body {
+  font-family: sans-serif;
+  padding: 1em;
+  background: #111;
+  color: #eee;
+}
+
+.slider-group {
+  margin-bottom: 1em;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.25em;
+}
+
+input[type="range"] {
+  width: 100%;
+}
+
+#play, #stop {
+  font-size: 1.2em;
+  padding: 0.5em 1em;
+}
+

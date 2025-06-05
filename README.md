@@ -28,4 +28,4 @@ Click **Stop** to immediately kill all audio output.
 
 ## Demo
 
-[DEMO](https://github.com/ellvix/reverb-testing) available, feel free to play around!
+[DEMO](https://ellvix.github.io/reverb-testing) available, feel free to play around!

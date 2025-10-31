@@ -1,4 +1,18 @@
-# Procedural Reverb Synth (Web Audio API)
+# Audio Testing Ground
+
+This is an audio testing ground built with the Web Audio API. It includes a variety of tone generators for experimenting with pitch, modulation, and effects — useful for accessibility testing, UX prototyping, or general sound design.
+
+---
+
+## Warning Tones
+
+The first section features 5 buttons, each triggering a unique warning tone:
+
+- Short procedural tones generated entirely in JavaScript
+- Quick 0.2–0.4 second alerts with subtle falloff to avoid clipping
+- Some tones use dissonance (two oscillators), others use stepped frequency changes, other use different wave types
+
+---
 
 This is a browser-based tone generator built using the Web Audio API. It generates a pure sine wave oscillator and simulates reverb using a procedurally created impulse response — no external audio files needed.
 

@@ -16,7 +16,7 @@ The first section features 5 buttons, each triggering a unique warning tone:
 
 This is a browser-based tone generator built using the Web Audio API. It generates a pure sine wave oscillator and simulates reverb using a procedurally created impulse response — no external audio files needed.
 
-## Features
+## Procedural Reverb Synth
 
 - Adjustable oscillator frequency (pitch)
 - Customizable tone duration
@@ -24,7 +24,7 @@ This is a browser-based tone generator built using the Web Audio API. It generat
 - Dry/Wet mix controls for balancing clean vs reverb trail
 - Play and Stop buttons to interact in real-time
 
-## Controls
+### Controls
 
 - **Oscillator Frequency**: Sets the pitch of the tone in Hz
 - **Tone Duration**: How long the tone plays before stopping
@@ -33,7 +33,7 @@ This is a browser-based tone generator built using the Web Audio API. It generat
 - **Dry Gain**: Volume of the clean, direct sound
 - **Wet Gain**: Volume of the reverb (echo) tail
 
-## Usage
+### Usage
 
 Open `index.html` in a modern browser and click **Play** to hear the sound based on your selected settings.  
 Click **Stop** to immediately kill all audio output.
